@@ -14,5 +14,6 @@ This project is a simple Keylogger built using Python and the pynput library. It
 
 -> Lightweight and easy to understand
 
-📌 Educational Use Disclaimer
-This project is created solely for educational purposes. Do NOT use this code to harm or violate the privacy of others. Unauthorized use of keyloggers is illegal and unethical. Always get proper permission before monitoring any device.
+📌 Educational Use 
+Disclaimer
+-> This project is created solely for educational purposes. Do NOT use this code to harm or violate the privacy of others. Unauthorized use of keyloggers is illegal and unethical. Always get proper permission before monitoring any device.
